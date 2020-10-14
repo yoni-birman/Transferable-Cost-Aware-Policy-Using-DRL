@@ -4,6 +4,7 @@ We argue that this scenario is typical of actual use cases where organizations d
 The results of our additional experiments are presented in the below table. 
 The results show that for both datasets -- PE and APK -- no detector is dominated by another. 
 Moreover, the large variance in the detection rates for the originally misclassified files -- larger than those presented in Table II in some cases -- further supports our claim that an intelligent selection of detector subsets can maintain high performance at a fraction of the resources-use.
+## table 
 ![](https://user-images.githubusercontent.com/45119337/95994553-1e58e880-0e39-11eb-8716-8693b1d0a954.jpg)
 
 # Appendix B - Influence of Changes in the Classification Threshold on Baseline Performance
