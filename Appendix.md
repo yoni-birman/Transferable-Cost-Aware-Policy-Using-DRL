@@ -13,3 +13,4 @@ In order to show that SPIREL outperforms all baselines regardless of their confi
 # Appendix C -  DRL Agent Action Distribution
 In continuation to the analysis presented in subsection V-C, we now present in full detail the detector combinations chosen by each SPIREL experiment. The results are presented in 
 the below table and include the description of the detector subset, its average runtime and the percentage of files (out of all those analyzed) on which this particular detectors subset was applied.
+![istribution of detector combination choices madeby the agent for each of our experimental policies](https://user-images.githubusercontent.com/45119337/95997405-6cbbb680-0e3c-11eb-95f7-2e71e6f92f6d.jpg)
