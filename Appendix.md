@@ -9,3 +9,7 @@ Moreover, the large variance in the detection rates for the originally misclassi
 # Appendix B - Influence of Changes in the Classification Threshold on Baseline Performance
 In order to show that SPIREL outperforms all baselines regardless of their confidence threshold settings, we conducted an additional set of experiments. The below figure presents our additional experiments. We ran each baseline in four additional configurations, with the confidence score threshold set to different values. The chosen threshold values were set to 0.3, 0.4, 0.6, and 0.7 (0.5 is the original value presented in Figure 4). Our results clearly show that SPIREL outperforms all baselines, regardless of their chosen configurations.
 ![](https://user-images.githubusercontent.com/45119337/95996170-0c784500-0e3b-11eb-85b7-01bb88f8ccc5.png)
+
+# Appendix C -  DRL Agent Action Distribution
+In continuation to the analysis presented in subsection V-C, we now present in full detail the detector combinations chosen by each SPIREL experiment. The results are presented in 
+the below table and include the description of the detector subset, its average runtime and the percentage of files (out of all those analyzed) on which this particular detectors subset was applied.
