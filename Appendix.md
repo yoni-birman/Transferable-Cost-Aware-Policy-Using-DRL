@@ -17,3 +17,4 @@ the below table and include the description of the detector subset, its average 
 
 #Appendix D - Training Times
 The training time required for our DRL agent to convergence change according to experimental settings. The experiments conducted in this study had the same action space and state representation, and a varying reward function (i.e., confusion matrix) that indicates the relation between correct and incorrect classification. The below table specifies for every dataset the amount of epochs and the average total time required for it to convergence. 
+![he  training  duration  and  number  of  epochsrequired to converge for both datasets](https://user-images.githubusercontent.com/45119337/95997919-f9667480-0e3c-11eb-81de-63d53cf8e381.jpg)
