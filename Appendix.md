@@ -31,3 +31,4 @@ More specifically, for every desired level of performance (with the exception of
 \MethodName’s superior performance is particularly evident when compared to the top performing baselines. 
 For both datasets, our approach outperformed the top performing baselines while being more computationally efficient.
 ![erformance and mean time values of all possible detector combinations for PE files](https://user-images.githubusercontent.com/45119337/95998576-accf6900-0e3d-11eb-89d0-12fc88739771.jpg)
+![erformance  and  mean  time  values  of  all  possible  detectors  combinations  for  APK  files](https://user-images.githubusercontent.com/45119337/95998928-0df73c80-0e3e-11eb-817c-98f1f3f3791d.jpg)
