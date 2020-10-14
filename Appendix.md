@@ -8,4 +8,4 @@ Moreover, the large variance in the detection rates for the originally misclassi
 
 # Appendix B - Influence of Changes in the Classification Threshold on Baseline Performance
 In order to show that SPIREL outperforms all baselines regardless of their confidence threshold settings, we conducted an additional set of experiments. The below figure presents our additional experiments. We ran each baseline in four additional configurations, with the confidence score threshold set to different values. The chosen threshold values were set to 0.3, 0.4, 0.6, and 0.7 (0.5 is the original value presented in Figure 4). Our results clearly show that SPIREL outperforms all baselines, regardless of their chosen configurations.
-![](https://user-images.githubusercontent.com/45119337/95994553-1e58e880-0e39-11eb-8716-8693b1d0a954.jpg)
+![](https://user-images.githubusercontent.com/45119337/95996170-0c784500-0e3b-11eb-85b7-01bb88f8ccc5.png)
