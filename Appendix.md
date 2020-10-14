@@ -30,3 +30,4 @@ An analysis of the results shows that \MethodName consistently outperforms all o
 More specifically, for every desired level of performance (with the exception of the poorest performing baselines which consist of a single detector), there is a version of our proposed method that can result in the equivalent or better performance at a reduced runtime. 
 \MethodName’s superior performance is particularly evident when compared to the top performing baselines. 
 For both datasets, our approach outperformed the top performing baselines while being more computationally efficient.
+![erformance and mean time values of all possible detector combinations for PE files](https://user-images.githubusercontent.com/45119337/95998576-accf6900-0e3d-11eb-89d0-12fc88739771.jpg)
